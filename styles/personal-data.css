@@ -1,0 +1,14 @@
+.personal-data {
+  background-image: url("https://wallpaperboat.com/wp-content/uploads/2020/06/05/43833/lo-fi-11.jpg");
+  background-size: contain;
+  background-repeat: repeat-y;
+}
+
+.personal-data h1 {
+  font-size: 2rem;
+  color: blue;
+  border-color: red;
+  border-width: 1px;
+  border-style: solid;
+  background-color: green;
+}
